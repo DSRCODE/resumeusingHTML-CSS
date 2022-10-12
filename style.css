@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading h1{
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 4px 4px #7b7272;
+}
+.line{
+    border: 2px solid red;
+    height: 100px;
+    margin-top: -1220px;
+}
+.section{
+    /* border: 5px solid red; */
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;  
+}
+/* section - 1 */
+.section .sec-1{
+    height: 100%;
+    width: 25%;
+    margin-right: 5px;
+    background-color: rgb(38, 34, 34);
+    
+}
+.profile img{
+    height: 200px;
+    width: 240px;
+    margin-top: 40px;
+    border-radius: 50%;
+    margin-left: 2.2rem;
+}
+.contact{
+    margin-top: 70px;
+    margin-left: 2.2rem;
+}
+.contact p{
+    margin-top: 15px;
+    color: #fff;
+}
+hr{
+    margin-top: 35px;
+    margin-left: 30px;
+    margin-right: 25px;
+}
+.skills{
+    margin-top: 30px;
+}
+.skills h1{
+    margin-left: 38px;
+    color: #fff;
+}
+.skills ul{
+    margin-top: 25px;
+}
+.skills ul li{
+    margin-left: 45px;
+    margin-top: 15px;
+    color: #fff;
+}
+.edu_tra{
+    margin-top: 35px;
+    color: #fff;margin-bottom: 25px;
+}
+.edu_tra h1{
+    margin-left: 38px;
+    color: #fff;
+}
+.edu_tra p{
+    margin-left: 30px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.edu_tra span{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+/* SECTION2 */
+
+
+
+.section .sec-2{
+    /* border: 2px solid rgb(18, 27, 208); */
+    background-color: rgb(242, 241, 241);
+    height: 100%;
+    width: 76%;
+    margin-left: 2px;
+}
+.sec-2 h1{
+    margin-left: 2.2rem;
+    margin-top: 60px;
+    font-size: xx-large;
+}
+.sum h1{
+    font-size: x-large;
+}
+.sum p{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.exp h1{
+    font-size: x-large;
+}
+.exp .p-1{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.exp .p1{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+.exp .p2{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.exp .ul1{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.exp .ul2{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+.exp .ul3{
+    margin-top: 20px;
+    margin-left: 60px;
+    /* margin-bottom: 20px; */
+}
+.esc-2 hr{
+ border: 4px solid black;
+}
+.bold{
+    font-size: large;
+    font-weight: bolder;
+    margin-left: 50px;
+}
